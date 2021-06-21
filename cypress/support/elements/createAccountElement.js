@@ -1,0 +1,22 @@
+export const ELEMENTS = {
+   create_account_form: '#account-creation_form',
+   gender_Mr: '#id_gender1',
+   gender_Mrs: '#id_gender2',
+   first_name: '#customer_firstname',
+   last_name: '#customer_lastname',
+   email: '#customer_lastname',
+   password: '#passwd',
+   day: '#days',
+   month: '#months',
+   year: '#years',
+   first_name_address: '#firstname',
+   last_name_address: '#lastname',
+   address1: '#address1',
+   city: '#city',
+   state: '#id_state',
+   postcode: '#postcode',
+   country: '#id_country',
+   phone_mobile: '#phone_mobile',
+   alias_address: '#alias',
+   submitAccount: "#submitAccount"
+}

@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://automationpractice.com",
+    "watchForFileChanges": false,
+    "experimentalSourceRewriting": true,
+    "defaultCommandTimeout": 10000
+}
